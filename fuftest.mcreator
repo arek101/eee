@@ -8,13 +8,22 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "Wwwwwwwwwwww",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "biome.fuftest.eee": "Eee"
+      "biome.fuftest.eee": "Eee",
+      "itemGroup.tabwwwwwwwwwwww": "Wwwwwwwwwwww"
     }
   },
   "workspaceSettings": {
