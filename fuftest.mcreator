@@ -16,6 +16,14 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "E",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -23,7 +31,8 @@
   "language_map": {
     "en_us": {
       "biome.fuftest.eee": "Eee",
-      "itemGroup.tabwwwwwwwwwwww": "Wwwwwwwwwwww"
+      "itemGroup.tabwwwwwwwwwwww": "Wwwwwwwwwwww",
+      "block.fuftest.e": "E"
     }
   },
   "workspaceSettings": {

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fuftest:blocks/e",
+    "particle": "fuftest:blocks/e"
+  }
+}
